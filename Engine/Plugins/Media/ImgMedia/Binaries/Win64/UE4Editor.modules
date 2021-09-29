@@ -1,0 +1,12 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"ExrReaderGpu": "UE4Editor-ExrReaderGpu.dll",
+		"ImgMedia": "UE4Editor-ImgMedia.dll",
+		"ImgMediaEditor": "UE4Editor-ImgMediaEditor.dll",
+		"ImgMediaEngine": "UE4Editor-ImgMediaEngine.dll",
+		"ImgMediaFactory": "UE4Editor-ImgMediaFactory.dll",
+		"OpenExrWrapper": "UE4Editor-OpenExrWrapper.dll"
+	}
+}

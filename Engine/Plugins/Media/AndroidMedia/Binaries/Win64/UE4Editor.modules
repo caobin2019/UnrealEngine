@@ -1,0 +1,8 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"AndroidMediaEditor": "UE4Editor-AndroidMediaEditor.dll",
+		"AndroidMediaFactory": "UE4Editor-AndroidMediaFactory.dll"
+	}
+}

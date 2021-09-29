@@ -1,0 +1,9 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"PlatformCrypto": "UE4Editor-PlatformCrypto.dll",
+		"PlatformCryptoOpenSSL": "UE4Editor-PlatformCryptoOpenSSL.dll",
+		"PlatformCryptoTypes": "UE4Editor-PlatformCryptoTypes.dll"
+	}
+}

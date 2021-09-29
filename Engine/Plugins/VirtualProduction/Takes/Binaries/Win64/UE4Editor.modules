@@ -1,0 +1,12 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"TakeMovieScene": "UE4Editor-TakeMovieScene.dll",
+		"TakeRecorder": "UE4Editor-TakeRecorder.dll",
+		"TakeRecorderSources": "UE4Editor-TakeRecorderSources.dll",
+		"TakesCore": "UE4Editor-TakesCore.dll",
+		"TakeSequencer": "UE4Editor-TakeSequencer.dll",
+		"TakeTrackRecorders": "UE4Editor-TakeTrackRecorders.dll"
+	}
+}

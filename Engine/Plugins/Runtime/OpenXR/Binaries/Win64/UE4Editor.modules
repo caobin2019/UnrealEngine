@@ -1,0 +1,10 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"OpenXRAR": "UE4Editor-OpenXRAR.dll",
+		"OpenXREditor": "UE4Editor-OpenXREditor.dll",
+		"OpenXRHMD": "UE4Editor-OpenXRHMD.dll",
+		"OpenXRInput": "UE4Editor-OpenXRInput.dll"
+	}
+}

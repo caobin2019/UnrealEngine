@@ -1,0 +1,10 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"SteamVR": "UE4Editor-SteamVR.dll",
+		"SteamVREditor": "UE4Editor-SteamVREditor.dll",
+		"SteamVRInput": "UE4Editor-SteamVRInput.dll",
+		"SteamVRInputDevice": "UE4Editor-SteamVRInputDevice.dll"
+	}
+}

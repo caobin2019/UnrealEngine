@@ -1,0 +1,8 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"OnlineBlueprintSupport": "UE4Editor-OnlineBlueprintSupport.dll",
+		"OnlineSubsystemUtils": "UE4Editor-OnlineSubsystemUtils.dll"
+	}
+}

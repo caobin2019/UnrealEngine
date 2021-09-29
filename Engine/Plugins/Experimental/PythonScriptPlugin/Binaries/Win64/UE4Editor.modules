@@ -1,0 +1,8 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"PythonScriptPlugin": "UE4Editor-PythonScriptPlugin.dll",
+		"PythonScriptPluginPreload": "UE4Editor-PythonScriptPluginPreload.dll"
+	}
+}

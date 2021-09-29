@@ -1,0 +1,9 @@
+{
+	"BuildId": "a176a249-c614-4aca-8041-04999ceabbc2",
+	"Modules": 
+	{
+		"WebMMedia": "UE4Editor-WebMMedia.dll",
+		"WebMMediaEditor": "UE4Editor-WebMMediaEditor.dll",
+		"WebMMediaFactory": "UE4Editor-WebMMediaFactory.dll"
+	}
+}
