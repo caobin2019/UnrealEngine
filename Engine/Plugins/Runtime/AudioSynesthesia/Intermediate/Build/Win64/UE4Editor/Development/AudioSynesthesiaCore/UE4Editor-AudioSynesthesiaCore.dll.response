@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\UE4\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:D:\____UE4_27\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,11 +33,11 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
-"D:\UE4\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\UE4Editor\Development\AudioSynesthesiaCore\Module.AudioSynesthesiaCore.cpp.obj"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\SignalProcessing\UE4Editor-SignalProcessing.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"D:\____UE4_27\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\UE4Editor\Development\AudioSynesthesiaCore\Module.AudioSynesthesiaCore.cpp.obj"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\SignalProcessing\UE4Editor-SignalProcessing.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -62,7 +62,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\UE4\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\UE4Editor-AudioSynesthesiaCore.dll"
-/IMPLIB:"D:\UE4\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\UE4Editor\Development\AudioSynesthesiaCore\UE4Editor-AudioSynesthesiaCore.suppressed.lib"
-/PDB:"D:\UE4\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\UE4Editor-AudioSynesthesiaCore.pdb"
+/OUT:"D:\____UE4_27\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\UE4Editor-AudioSynesthesiaCore.dll"
+/IMPLIB:"D:\____UE4_27\Engine\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\UE4Editor\Development\AudioSynesthesiaCore\UE4Editor-AudioSynesthesiaCore.suppressed.lib"
+/PDB:"D:\____UE4_27\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64\UE4Editor-AudioSynesthesiaCore.pdb"
 /ignore:4078

@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\UE4\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:D:\____UE4_27\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -20,7 +20,7 @@
 /DELAYLOAD:"DBGHELP.DLL"
 /DELAYLOAD:"OpenImageDenoise.dll"
 /DELAYLOAD:"tbb12.dll"
-/LIBPATH:"D:\UE4\Engine\Source\ThirdParty\Intel\OIDN\lib"
+/LIBPATH:"D:\____UE4_27\Engine\Source\ThirdParty\Intel\OIDN\lib"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x64"
@@ -36,17 +36,17 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\UE4\Engine\Plugins\Experimental\OpenImageDenoise\Intermediate\Build\Win64\UE4Editor\Development\OpenImageDenoise\Plugin.cpp.obj"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"D:\UE4\Engine\Source\ThirdParty\Intel\OIDN\lib\OpenImageDenoise.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\RHI\UE4Editor-RHI.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\MessageLog\UE4Editor-MessageLog.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\____UE4_27\Engine\Plugins\Experimental\OpenImageDenoise\Intermediate\Build\Win64\UE4Editor\Development\OpenImageDenoise\Plugin.cpp.obj"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"D:\____UE4_27\Engine\Source\ThirdParty\Intel\OIDN\lib\OpenImageDenoise.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\RHI\UE4Editor-RHI.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\MessageLog\UE4Editor-MessageLog.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -71,7 +71,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\UE4\Engine\Plugins\Experimental\OpenImageDenoise\Binaries\Win64\UE4Editor-OpenImageDenoise.dll"
-/IMPLIB:"D:\UE4\Engine\Plugins\Experimental\OpenImageDenoise\Intermediate\Build\Win64\UE4Editor\Development\OpenImageDenoise\UE4Editor-OpenImageDenoise.suppressed.lib"
-/PDB:"D:\UE4\Engine\Plugins\Experimental\OpenImageDenoise\Binaries\Win64\UE4Editor-OpenImageDenoise.pdb"
+/OUT:"D:\____UE4_27\Engine\Plugins\Experimental\OpenImageDenoise\Binaries\Win64\UE4Editor-OpenImageDenoise.dll"
+/IMPLIB:"D:\____UE4_27\Engine\Plugins\Experimental\OpenImageDenoise\Intermediate\Build\Win64\UE4Editor\Development\OpenImageDenoise\UE4Editor-OpenImageDenoise.suppressed.lib"
+/PDB:"D:\____UE4_27\Engine\Plugins\Experimental\OpenImageDenoise\Binaries\Win64\UE4Editor-OpenImageDenoise.pdb"
 /ignore:4078

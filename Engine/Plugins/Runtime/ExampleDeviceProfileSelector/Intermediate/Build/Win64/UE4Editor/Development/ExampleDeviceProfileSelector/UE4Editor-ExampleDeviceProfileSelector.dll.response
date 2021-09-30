@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\UE4\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:D:\____UE4_27\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,12 +33,12 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\UE4\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Intermediate\Build\Win64\UE4Editor\Development\ExampleDeviceProfileSelector\ExampleDeviceProfileSelectorModule.cpp.obj"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\____UE4_27\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Intermediate\Build\Win64\UE4Editor\Development\ExampleDeviceProfileSelector\ExampleDeviceProfileSelectorModule.cpp.obj"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -63,7 +63,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\UE4\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64\UE4Editor-ExampleDeviceProfileSelector.dll"
-/IMPLIB:"D:\UE4\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Intermediate\Build\Win64\UE4Editor\Development\ExampleDeviceProfileSelector\UE4Editor-ExampleDeviceProfileSelector.suppressed.lib"
-/PDB:"D:\UE4\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64\UE4Editor-ExampleDeviceProfileSelector.pdb"
+/OUT:"D:\____UE4_27\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64\UE4Editor-ExampleDeviceProfileSelector.dll"
+/IMPLIB:"D:\____UE4_27\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Intermediate\Build\Win64\UE4Editor\Development\ExampleDeviceProfileSelector\UE4Editor-ExampleDeviceProfileSelector.suppressed.lib"
+/PDB:"D:\____UE4_27\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64\UE4Editor-ExampleDeviceProfileSelector.pdb"
 /ignore:4078

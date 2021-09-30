@@ -6,7 +6,7 @@
 /NAME:"UE4Editor-OodleDataCompressionFormat.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\UE4\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.obj"
-"D:\UE4\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"D:\UE4\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\UE4Editor-OodleDataCompressionFormat.lib"
+"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.obj"
+"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\UE4Editor-OodleDataCompressionFormat.lib"

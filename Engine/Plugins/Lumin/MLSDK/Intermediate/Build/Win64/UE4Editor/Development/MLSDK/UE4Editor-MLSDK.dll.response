@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\UE4\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:D:\____UE4_27\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,10 +33,10 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
-"D:\UE4\Engine\Plugins\Lumin\MLSDK\Intermediate\Build\Win64\UE4Editor\Development\MLSDK\LibraryLoaderImpl.cpp.obj"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"D:\UE4\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"D:\____UE4_27\Engine\Plugins\Lumin\MLSDK\Intermediate\Build\Win64\UE4Editor\Development\MLSDK\LibraryLoaderImpl.cpp.obj"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -61,7 +61,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\UE4\Engine\Plugins\Lumin\MLSDK\Binaries\Win64\UE4Editor-MLSDK.dll"
-/IMPLIB:"D:\UE4\Engine\Plugins\Lumin\MLSDK\Intermediate\Build\Win64\UE4Editor\Development\MLSDK\UE4Editor-MLSDK.suppressed.lib"
-/PDB:"D:\UE4\Engine\Plugins\Lumin\MLSDK\Binaries\Win64\UE4Editor-MLSDK.pdb"
+/OUT:"D:\____UE4_27\Engine\Plugins\Lumin\MLSDK\Binaries\Win64\UE4Editor-MLSDK.dll"
+/IMPLIB:"D:\____UE4_27\Engine\Plugins\Lumin\MLSDK\Intermediate\Build\Win64\UE4Editor\Development\MLSDK\UE4Editor-MLSDK.suppressed.lib"
+/PDB:"D:\____UE4_27\Engine\Plugins\Lumin\MLSDK\Binaries\Win64\UE4Editor-MLSDK.pdb"
 /ignore:4078
