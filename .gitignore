@@ -17,6 +17,10 @@
 *
 !*/
 
+# DLL, EXE
+!*.dll
+!*.exe
+
 # C/C++ source files
 !*.c
 !*.cc
