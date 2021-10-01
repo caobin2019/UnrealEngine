@@ -1,0 +1,11 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"VCamCore": "UE4Editor-VCamCore.dll",
+		"VCamCoreEditor": "UE4Editor-VCamCoreEditor.dll",
+		"VCamInput": "UE4Editor-VCamInput.dll",
+		"VirtualCamera": "UE4Editor-VirtualCamera.dll",
+		"VirtualCameraEditor": "UE4Editor-VirtualCameraEditor.dll"
+	}
+}

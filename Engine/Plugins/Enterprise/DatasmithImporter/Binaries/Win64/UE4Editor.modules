@@ -1,0 +1,10 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"DatasmithImporter": "UE4Editor-DatasmithImporter.dll",
+		"DatasmithNativeTranslator": "UE4Editor-DatasmithNativeTranslator.dll",
+		"DatasmithTranslator": "UE4Editor-DatasmithTranslator.dll",
+		"DirectLinkTest": "UE4Editor-DirectLinkTest.dll"
+	}
+}

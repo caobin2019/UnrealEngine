@@ -1,0 +1,10 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"TextureShare": "UE4Editor-TextureShare.dll",
+		"TextureShareCore": "UE4Editor-TextureShareCore.dll",
+		"TextureShareD3D11": "UE4Editor-TextureShareD3D11.dll",
+		"TextureShareD3D12": "UE4Editor-TextureShareD3D12.dll"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"DatasmithC4DDynamicImporter": "UE4Editor-DatasmithC4DDynamicImporter.dll",
+		"DatasmithC4DTranslator": "UE4Editor-DatasmithC4DTranslator.dll"
+	}
+}

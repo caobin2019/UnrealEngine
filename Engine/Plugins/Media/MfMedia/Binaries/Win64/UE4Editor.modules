@@ -1,0 +1,8 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"MfMediaEditor": "UE4Editor-MfMediaEditor.dll",
+		"MfMediaFactory": "UE4Editor-MfMediaFactory.dll"
+	}
+}

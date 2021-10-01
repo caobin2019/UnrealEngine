@@ -1,0 +1,9 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"CommonInput": "UE4Editor-CommonInput.dll",
+		"CommonUI": "UE4Editor-CommonUI.dll",
+		"CommonUIEditor": "UE4Editor-CommonUIEditor.dll"
+	}
+}

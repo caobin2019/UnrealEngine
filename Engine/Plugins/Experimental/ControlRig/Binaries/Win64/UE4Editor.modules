@@ -1,0 +1,9 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"ControlRig": "UE4Editor-ControlRig.dll",
+		"ControlRigDeveloper": "UE4Editor-ControlRigDeveloper.dll",
+		"ControlRigEditor": "UE4Editor-ControlRigEditor.dll"
+	}
+}

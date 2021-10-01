@@ -1,0 +1,11 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"MeshModelingTools": "UE4Editor-MeshModelingTools.dll",
+		"MeshModelingToolsEditorOnly": "UE4Editor-MeshModelingToolsEditorOnly.dll",
+		"ModelingComponents": "UE4Editor-ModelingComponents.dll",
+		"ModelingOperators": "UE4Editor-ModelingOperators.dll",
+		"ModelingOperatorsEditorOnly": "UE4Editor-ModelingOperatorsEditorOnly.dll"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"RigLogicEditor": "UE4Editor-RigLogicEditor.dll",
+		"RigLogicLib": "UE4Editor-RigLogicLib.dll",
+		"RigLogicLibTest": "UE4Editor-RigLogicLibTest.dll",
+		"RigLogicModule": "UE4Editor-RigLogicModule.dll"
+	}
+}

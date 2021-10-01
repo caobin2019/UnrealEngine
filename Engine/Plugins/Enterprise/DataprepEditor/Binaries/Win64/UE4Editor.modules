@@ -1,0 +1,10 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"DataprepCore": "UE4Editor-DataprepCore.dll",
+		"DataprepEditor": "UE4Editor-DataprepEditor.dll",
+		"DataprepEditorScriptingUtilities": "UE4Editor-DataprepEditorScriptingUtilities.dll",
+		"DataprepLibraries": "UE4Editor-DataprepLibraries.dll"
+	}
+}

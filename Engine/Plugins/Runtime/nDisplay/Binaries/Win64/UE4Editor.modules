@@ -1,0 +1,17 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"DisplayCluster": "UE4Editor-DisplayCluster.dll",
+		"DisplayClusterConfiguration": "UE4Editor-DisplayClusterConfiguration.dll",
+		"DisplayClusterConfigurator": "UE4Editor-DisplayClusterConfigurator.dll",
+		"DisplayClusterEditor": "UE4Editor-DisplayClusterEditor.dll",
+		"DisplayClusterMessageInterception": "UE4Editor-DisplayClusterMessageInterception.dll",
+		"DisplayClusterMultiUser": "UE4Editor-DisplayClusterMultiUser.dll",
+		"DisplayClusterPostprocess": "UE4Editor-DisplayClusterPostprocess.dll",
+		"DisplayClusterProjection": "UE4Editor-DisplayClusterProjection.dll",
+		"DisplayClusterRemoteControlInterceptor": "UE4Editor-DisplayClusterRemoteControlInterceptor.dll",
+		"DisplayClusterShaders": "UE4Editor-DisplayClusterShaders.dll",
+		"DisplayClusterStageMonitoring": "UE4Editor-DisplayClusterStageMonitoring.dll"
+	}
+}

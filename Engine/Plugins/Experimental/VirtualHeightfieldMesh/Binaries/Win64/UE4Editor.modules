@@ -1,0 +1,8 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"VirtualHeightfieldMesh": "UE4Editor-VirtualHeightfieldMesh.dll",
+		"VirtualHeightfieldMeshEditor": "UE4Editor-VirtualHeightfieldMeshEditor.dll"
+	}
+}

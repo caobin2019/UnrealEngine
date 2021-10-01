@@ -1,0 +1,9 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"MagicLeapCamera": "UE4Editor-MagicLeapCamera.dll",
+		"MagicLeapCameraPreviewFactory": "UE4Editor-MagicLeapCameraPreviewFactory.dll",
+		"MagicLeapCVCamera": "UE4Editor-MagicLeapCVCamera.dll"
+	}
+}

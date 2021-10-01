@@ -20,6 +20,7 @@
 # DLL, EXE
 !*.dll
 !*.exe
+!*.modules
 
 # C/C++ source files
 !*.c

@@ -1,0 +1,12 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"RemoteControl": "UE4Editor-RemoteControl.dll",
+		"RemoteControlCommon": "UE4Editor-RemoteControlCommon.dll",
+		"RemoteControlProtocol": "UE4Editor-RemoteControlProtocol.dll",
+		"RemoteControlProtocolWidgets": "UE4Editor-RemoteControlProtocolWidgets.dll",
+		"RemoteControlUI": "UE4Editor-RemoteControlUI.dll",
+		"WebRemoteControl": "UE4Editor-WebRemoteControl.dll"
+	}
+}

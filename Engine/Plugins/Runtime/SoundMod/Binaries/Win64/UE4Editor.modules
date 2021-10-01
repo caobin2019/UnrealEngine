@@ -1,0 +1,8 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"SoundMod": "UE4Editor-SoundMod.dll",
+		"SoundModImporter": "UE4Editor-SoundModImporter.dll"
+	}
+}

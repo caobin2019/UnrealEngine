@@ -1,0 +1,14 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"Hotfix": "UE4Editor-Hotfix.dll",
+		"Lobby": "UE4Editor-Lobby.dll",
+		"LoginFlow": "UE4Editor-LoginFlow.dll",
+		"Party": "UE4Editor-Party.dll",
+		"PatchCheck": "UE4Editor-PatchCheck.dll",
+		"PlayTimeLimit": "UE4Editor-PlayTimeLimit.dll",
+		"Qos": "UE4Editor-Qos.dll",
+		"Rejoin": "UE4Editor-Rejoin.dll"
+	}
+}

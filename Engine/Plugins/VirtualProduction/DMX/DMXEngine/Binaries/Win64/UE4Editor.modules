@@ -1,0 +1,9 @@
+{
+	"BuildId": "8bf7cd92-6d7f-4c13-b84f-9bc89617dee2",
+	"Modules": 
+	{
+		"DMXBlueprintGraph": "UE4Editor-DMXBlueprintGraph.dll",
+		"DMXEditor": "UE4Editor-DMXEditor.dll",
+		"DMXRuntime": "UE4Editor-DMXRuntime.dll"
+	}
+}
