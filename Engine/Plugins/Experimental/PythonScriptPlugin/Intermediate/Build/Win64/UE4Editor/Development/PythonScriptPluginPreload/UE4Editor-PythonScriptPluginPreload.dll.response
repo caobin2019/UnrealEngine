@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:D:\____UE4_27\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:D:\UnrealEngine\Engine\Build\Windows\Resources\Default-Win64.manifest
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,10 +33,10 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
-"D:\____UE4_27\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Development\PythonScriptPluginPreload\PythonScriptPluginPreload.cpp.obj"
-"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"D:\____UE4_27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"D:\UnrealEngine\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Development\PythonScriptPluginPreload\PythonScriptPluginPreload.cpp.obj"
+"D:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+"D:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -61,7 +61,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\____UE4_27\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64\UE4Editor-PythonScriptPluginPreload.dll"
-/IMPLIB:"D:\____UE4_27\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Development\PythonScriptPluginPreload\UE4Editor-PythonScriptPluginPreload.suppressed.lib"
-/PDB:"D:\____UE4_27\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64\UE4Editor-PythonScriptPluginPreload.pdb"
+/OUT:"D:\UnrealEngine\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64\UE4Editor-PythonScriptPluginPreload.dll"
+/IMPLIB:"D:\UnrealEngine\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Development\PythonScriptPluginPreload\UE4Editor-PythonScriptPluginPreload.suppressed.lib"
+/PDB:"D:\UnrealEngine\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64\UE4Editor-PythonScriptPluginPreload.pdb"
 /ignore:4078

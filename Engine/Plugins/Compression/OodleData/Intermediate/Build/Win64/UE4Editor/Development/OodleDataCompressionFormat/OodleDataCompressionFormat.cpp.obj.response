@@ -263,11 +263,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
-/FI"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
-/Yu"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
-/Fp"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.pch"
-"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Source\Private\OodleDataCompressionFormat.cpp"
-/Fo"D:\____UE4_27\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
+/FI"D:\UnrealEngine\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
+/Yu"D:\UnrealEngine\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
+/Fp"D:\UnrealEngine\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.pch"
+"D:\UnrealEngine\Engine\Plugins\Compression\OodleData\Source\Private\OodleDataCompressionFormat.cpp"
+/Fo"D:\UnrealEngine\Engine\Plugins\Compression\OodleData\Intermediate\Build\Win64\UE4Editor\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
 /TP
 /GR-
 /W4
