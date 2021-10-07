@@ -1,0 +1,7 @@
+{
+	"BuildId": "eb8263ad-0f3c-48b9-8f34-1a685be450ac",
+	"Modules": 
+	{
+		"UdpMessaging": "UnrealLightmass-UdpMessaging.dll"
+	}
+}
